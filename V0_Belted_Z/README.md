@@ -1,4 +1,4 @@
-# V0 Universal Belted Z
+# V0 Belted Z
 This is a new belted Z mod for the Voron Zero. It drops the Z drive below the bottom frame extrusion. This allows full range of motion for both stock (V0.0/V0.1/V0.2) and Kirigami setups. It has been tested with 5:1 gearing up to 300mm/s at 1000mm/s/s z accels and 200mm/s at 3000mm/s/s with an OMC-17HS08-1004S motor set to run_current: 0.5.
 
 If you are installing fresh you will need to install the motor plate after installing the rear panel (the rest of the Z drive can be installed before).  You will also need to install the bedmount prior to mounting the back panel for the stock bed setups as they bolt from the back.  For the Kirigami the whole thing can be installed without removing the panel.
