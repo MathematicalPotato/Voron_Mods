@@ -15,6 +15,8 @@ For bolt/nut/heatset counts they should all be in place in the CAD, each configu
 
 It was brought to my attention by mapaba#0044 on the Discord that there were some clearance issues with the rear skirt and power inlet on the V0.2 which could be fixed by mirroring the assembly to shift the z drive further from the power inlet.  All components have been switched to a mirrored assembly for better compatibility with V0.2 parts while maintaining compatibility with the other configurations as well.  
 
+The old parts are still fine for V0.0 or V0.1 builds, but for new build V0.2 or upgrading to V0.2 from a prior revision it is recommended to use the new mirrored assembly.  Drilling a hole in the rear panel may be required to use the mirrored z-min endstop. It is recommended to use the newer z-max endstop configuration.
+
 This mod is compatible with V0.0, V0.1, and V0.2 in either Kirigami or Stock Bed configurations as of 2023-04-24.
 
 ## Pictures
