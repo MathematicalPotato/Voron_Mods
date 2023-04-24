@@ -9,6 +9,7 @@ For the upper idler there are two models, one that can use F695 bearings and one
 
 For bolt/nut/heatset counts they should all be in place in the CAD, each configuration has slight differences.
 
+
 Kirigami Bed
 
 ![ZBelt-Pic001](Images/v0zbelt_kirigami1.png)
