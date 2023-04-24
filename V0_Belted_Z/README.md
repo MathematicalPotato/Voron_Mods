@@ -11,7 +11,7 @@ For bolt/nut/heatset counts they should all be in place in the CAD, each configu
 
 ## Updates
 
-# 2023-04-24
+### 2023-04-24
 
 It was brought to my attention by mapaba#0044 on the Discord that there were some clearance issues with the rear skirt and power inlet on the V0.2 which could be fixed by mirroring the assembly to shift the z drive further from the power inlet.  All components have been switched to a mirrored assembly for better compatibility with V0.2 parts while maintaining compatibility with the other configurations as well.  
 
